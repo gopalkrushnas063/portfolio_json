@@ -32,6 +32,60 @@
         "stack_name": "CSS",
         "percentage": "85"
       }
+    ],
+    "education" :[
+      {
+        "degree": "Master Of Science In Information Security",
+        "duration": "Jan 2024 - Present",
+        "desc":"Pursuing MSc in Information Security, my education encompasses advanced studies in cybersecurity, cryptography, and risk management. Focused on developing a comprehensive understanding of securing digital assets, I explore topics such as network security, ethical hacking, and secure software development. With a commitment to staying abreast of evolving threats and protective measures, I aim to contribute effectively to the field of information security, ensuring robust defenses against cyber threats."
+      },
+      {
+        "degree": "Full Stack Web Development Course",
+        "duration": "Feb 2022 - Nov 2022",
+        "desc":"1200 + Hour Coding, 100 +Hour of Soft skill Development, Data Structures And algorithms, Collaborative projects, and Teamwork, 100 + Mini Projects, 5 + Major Projects."
+      },
+      {
+        "degree": "Post Graduate Diploma In Cybersecurity",
+        "duration": "Jun 2019 - Dec 2020",
+        "desc":"To gain insight into the importance of cyber security and the integral role of cyber security professionals to develop a high level of professional ethics. To explore foundational cyber security principles, security architecture, attacks, incidents, and emerging IT Security Technologies. To be familiar with key terms and concepts in cyber law, Security Standards, intellectual property rights and Acts on IT Security. To be able to understand principles of web application security and network security."
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "duration": "Mar 2015 - May 2018",
+        "desc":"Mainly studied the process and method of e-commerce, familiar with the mainstream e-commerce platform and tools. The objective is to learn and get engaged in corporate branding and product promotion, customer resource development and skill, cross-border e-commerce operation, network marketing, mobile commerce management, etc."
+      },
+      {
+        "degree": "Intermediate In Science",
+        "duration": "Jun 2012 - Jul 2015",
+        "desc":"In the Intermediate Science course studied Zoology, Botany (animal life, plant life, weather, water, etc), physics, chemistry, and Mathematics as well as technology and astronomy."
+      }
+    ],
+    "experience" :[
+      {
+        "designation": "Flutter Developer ( Wayindia Software Solution )",
+        "duration": "Jul 2023 - Present",
+        "desc":"As a Software Developer, I design, develop, and maintain software applications. I collaborate with teams, gather requirements, and implement solutions using programming languages and frameworks. I ensure code quality, perform testing, and debug issues. Effective communication, continuous learning, and documentation are integral parts of my work."
+      },
+      {
+        "designation": "Full Stack Developer ( HyScaler )",
+        "duration": "Apr 2023 - Jul 2023",
+        "desc":"As a Software Developer, I design, develop, and maintain software applications. I collaborate with teams, gather requirements, and implement solutions using programming languages and frameworks. I ensure code quality, perform testing, and debug issues. Effective communication, continuous learning, and documentation are integral parts of my work."
+      },
+      {
+        "designation": "System Administrator ( Hiveloop Technology Pvt. Ltd.)",
+        "duration": "Feb 2021 - Feb 2022",
+        "desc":"System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications. Installing and Configuring MS Outlook with POP3 and Exchange to the end user and troubleshooting. Installation and configuration of Modem and setting up Internet connections."
+      },
+      {
+        "designation": "System Administrator ( GIET, Bhubaneswar, Odisha)",
+        "duration": "Sept 2019 - Feb 2021",
+        "desc":"System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications. Installing and Configuring MS Outlook with POP3 and Exchange to the end user and troubleshooting. Installation and configuration of Modem and setting up Internet connections."
+      },
+      {
+        "designation": "Trainee Engineer ( CMS IT Service Pvt. Ltd, Bhubaneswar, Odisha)",
+        "duration": "Jun 2019 - Sept 2019",
+        "desc":"System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications."
+      }
     ]
   }
 ]
