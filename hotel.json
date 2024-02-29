@@ -1,18 +1,18 @@
-
+{
   "status": "1",
   "imagePath": "http://203.193.144.34:80/api/images/GetImage/",
   "Data": [
     {
       "Id": 1,
       "Heading": "The Opulent Suite",
-      "Description": "Experience unparalleled luxury and sophistication in our opulent suites. Indulge in the epitome of comfort and style, surrounded by exquisite design and world-class amenities.\n",
+      "Description": "Experience unparalleled luxury and sophistication in our opulent suites. Indulge in the epitome of comfort and style, surrounded by exquisite design and world-class amenities.",
       "ImgUrl": "Room2.jpg",
       "Status": 1
     },
     {
       "Id": 3,
-      "Heading": "Elegance Redefined\n",
-      "Description": "Immerse yourself in the epitome of elegance with our carefully curated luxury rooms. Each space is a masterpiece of design, offering a haven of tranquility and sophistication.\n",
+      "Heading": "Elegance Redefined",
+      "Description": "Immerse yourself in the epitome of elegance with our carefully curated luxury rooms. Each space is a masterpiece of design, offering a haven of tranquility and sophistication.",
       "ImgUrl": "Room3.jpg",
       "Status": 1
     },
