@@ -2,7 +2,13 @@
   {
     "image":"https://gopalkrushnas063.github.io/images/photo.jpg",
     "name":"Gopal Krushna Sahoo",
-    "position" : "Fullstack Java Developer",
+    "position" : [
+      "Fullstack Java Developer",
+      "Java Developer",
+      "Ex. Masai",
+      "Java Springboot Developer",
+      "Flutter Developer"
+    ],
     "carrer_objective" : "Passionate Flutter developer aspiring to excel in crafting innovative cross-platform applications. Proficient in Flutter, Dart, and UI/UX design, I am committed to delivering high-quality, user-centric solutions. Seeking opportunities to contribute my skills to dynamic projects and teams, staying abreast of industry trends and emerging technologies.",
     "resume_url":"https://user-images.githubusercontent.com/103574856/284890378-df48e7cb-f093-4be2-a109-dbf023e4ff93.png"
   }
