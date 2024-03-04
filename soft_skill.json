@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "title" : "Communication",
+        "desc" : "",
+        "images" : "https://img.freepik.com/free-vector/online-exam-landing-page-distant-education-classes_107791-14288.jpg?w=1800&t=st=1702157783~exp=1702158383~hmac=4dbcb0daa8f90528ab880b79d116f5e7992ed755ea67c9c848163e3793c6ac9f"
+    },
+    {
+        "id" : 2,
+        "title" : "Growth Mindset",
+        "desc" : "",
+        "images" : "https://img.freepik.com/free-vector/online-testing-banner_107791-3684.jpg?w=1380&t=st=1702158221~exp=1702158821~hmac=e9918d941dc50ccdc651ecc5190eddef45a59b2222f0c16da6dc33edaeb0cd52"
+    },
+    {
+        "id" : 3,
+        "title" : "Adaptability",
+        "desc" : "",
+        "images" : "https://img.freepik.com/free-vector/online-education-landing-page_52683-6942.jpg?w=1380&t=st=1702158268~exp=1702158868~hmac=3650f84142f9d05d86c3176f9756d45276a2bca628b077b0d785c1a38ad03b28"
+    },
+    {
+          "id" : 4,
+          "title" : "Curiosity",
+          "desc" : "",
+          "images" : "https://img.freepik.com/free-vector/online-education-landing-page_52683-6942.jpg?w=1380&t=st=1702158268~exp=1702158868~hmac=3650f84142f9d05d86c3176f9756d45276a2bca628b077b0d785c1a38ad03b28"
+      },
+      {
+          "id" : 5,
+          "title" : "Transparency",
+          "desc" : "",
+          "images" : "https://img.freepik.com/free-vector/online-education-landing-page_52683-6942.jpg?w=1380&t=st=1702158268~exp=1702158868~hmac=3650f84142f9d05d86c3176f9756d45276a2bca628b077b0d785c1a38ad03b28"
+      },
+      {
+          "id" : 6,
+          "title" : "Work Ethic",
+          "desc" : "",
+          "images" : "https://img.freepik.com/free-vector/online-education-landing-page_52683-6942.jpg?w=1380&t=st=1702158268~exp=1702158868~hmac=3650f84142f9d05d86c3176f9756d45276a2bca628b077b0d785c1a38ad03b28"
+      },
+      {
+          "id" : 7,
+          "title" : "Team Work",
+          "desc" : "",
+          "images" : "https://img.freepik.com/free-vector/online-education-landing-page_52683-6942.jpg?w=1380&t=st=1702158268~exp=1702158868~hmac=3650f84142f9d05d86c3176f9756d45276a2bca628b077b0d785c1a38ad03b28"
+      },
+      {
+          "id" : 8,
+          "title" : "Professionalisim",
+          "desc" : "",
+          "images" : "https://img.freepik.com/free-vector/online-education-landing-page_52683-6942.jpg?w=1380&t=st=1702158268~exp=1702158868~hmac=3650f84142f9d05d86c3176f9756d45276a2bca628b077b0d785c1a38ad03b28"
+      }
+]
