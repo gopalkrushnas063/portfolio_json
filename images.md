@@ -28,3 +28,6 @@
 
 ![growth_mind-removebg-preview](https://github.com/gopalkrushnas063/portfolio_json/assets/103574856/ea93c2df-dd64-4e64-8765-ffa84eafead3)
 
+
+
+![project-6](https://github.com/gopalkrushnas063/portfolio_json/assets/103574856/a389c935-52c3-40b4-88b7-f6448f1ef314)
