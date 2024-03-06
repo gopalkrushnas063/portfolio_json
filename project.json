@@ -13,7 +13,7 @@
     {
       "name": "News Bell: A Common Man's News",
       "description": "NewsBell is your all-in-one news app designed to keep you informed and engaged with the latest news, and trending stories from around the world. Whether you're a news enthusiast, a casual reader, or simply someone who wants to stay updated, NewsBell has got you covered.",
-      "image": "images/portfolio/newsbell.png",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/newsbell.png",
       "technologies": ["Dart", "Flutter", "Android", "GitHub", "Firebase"],
       "links": {
         "app": "https://apps.apple.com/in/app/newsbell-app/id6449482902",
@@ -33,7 +33,7 @@
     {
       "name": "BMI Calculator & Health Tips",
       "description": "A BMI (Body Mass Index) calculator is a straightforward tool used to estimate an individual's body fat based on their height and weight. It's a widely-used metric in healthcare and fitness because it offers a quick assessment of a person's weight status and potential health risks associated with their body composition.",
-      "image": "images/portfolio/bmi.png",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/bmi.png",
       "technologies": ["Dart", "Flutter", "Android", "GitHub", "Firebase"],
       "links": {
         "app": "https://play.google.com/store/apps/details?id=com.healthhints.bmicalculator",
@@ -43,7 +43,7 @@
     {
       "name": "Trip Management System",
       "description": "The main objective of this project is to know the package related to the trip and journey with the best facility and current offer. Searching will be very easy. With a single click will be able to fetch the required data.",
-      "image": "images/portfolio/project-4.png",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/project-4.png",
       "technologies": ["Java", "MySQL", "IntelliJ", "GitHub", "Maven"],
       "links": {
         "app": "https://drive.google.com/file/d/16B3LylITeVDGTXwOnZvZJzMzZC8tkAdf/view?usp=share_link",
@@ -53,7 +53,7 @@
     {
       "name": "Movie Review App",
       "description": "The main goal of this project is to implement the Spring Security module for user authentication. Once the user successfully logs in with the correct credentials, they will be directed to a static movie section page. This page will display various movies and related information.",
-      "image": "images/portfolio/project-6.png",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/project-6.png",
       "technologies": ["Java", "MySQL", "IntelliJ", "GitHub", "Maven"],
       "links": {
         "app": "https://moviereviewapp1-production.up.railway.app/",
@@ -63,7 +63,7 @@
     {
       "name": "Course Monitoring System",
       "description": "The main objective of creating this project is how an administrator can provide course, batch, and daily schedules to all his faculty so that the faculty does not face any problems in getting the course, batch, and daily plan regularly and on time without any issue.",
-      "image": "images/portfolio/project-5.png",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/project-5.png",
       "technologies": ["Java", "MySQL", "IntelliJ", "GitHub", "Maven"],
       "links": {
         "app": "https://github.com/gopalkrushnas063/Course_Management_System",
@@ -73,7 +73,7 @@
     {
       "name": "Fab Bag Web Clone",
       "description": "This is also an E-Commerce website that provides a wide range of products for selling. I designed this website along with my 4 group members. We have tried to implement all the functionalities of the website with the exact styling that has been used in it.",
-      "image": "images/portfolio/project-2.jpg",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/project-2.jpg",
       "technologies": ["HTML", "CSS", "JavaScript", "GitHub", "VSCode"],
       "links": {
         "app": "https://glowing-croissant-fc55f0.netlify.app",
@@ -83,7 +83,7 @@
     {
       "name": "Nord_Strom_Rack Web Clone",
       "description": "This is also an E-Commerce website that provides a wide range of products for selling. I designed this website along with my 4 group members. We have tried to implement all the functionalities of the website with the exact styling that has been used in it.",
-      "image": "images/portfolio/project-3.jpg",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/project-3.jpg",
       "technologies": ["HTML", "CSS", "JavaScript", "GitHub", "VSCode"],
       "links": {
         "app": "https://bejewelled-tartufo-753ba2.netlify.app/",
