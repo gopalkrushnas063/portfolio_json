@@ -63,7 +63,7 @@
     {
       "name": "Course Monitoring System",
       "description": "The main objective of creating this project is how an administrator can provide course, batch, and daily schedules to all his faculty so that the faculty does not face any problems in getting the course, batch, and daily plan regularly and on time without any issue.",
-      "image": "https://gopalkrushnas063.github.io/images/portfolio/project-5.png",
+      "image": "https://gopalkrushnas063.github.io/images/portfolio/image-5.png",
       "technologies": ["Java", "MySQL", "IntelliJ", "GitHub", "Maven"],
       "links": {
         "app": "https://github.com/gopalkrushnas063/Course_Management_System",
