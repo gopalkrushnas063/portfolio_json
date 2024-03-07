@@ -1,0 +1,54 @@
+{
+  "certifications": [
+    {
+      "name": "Foundation Of Cybersecurity",
+      "image": "https://gopalkrushnas063.github.io/images/certification/coursera_cybersecurity.png",
+      "link": "https://coursera.org/share/e87b5f1a8f6b9a056952d15d7ed6265f"
+    },
+    {
+      "name": "Oracle Certified Foundation Associate",
+      "image": "https://gopalkrushnas063.github.io/images/certification/oracle.png",
+      "link": "https://gopalkrushnas063.github.io/images/certification/oracle.png"
+    },
+    {
+      "name": "SQL (Intermediate) Certificate",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certifiacte-2.png",
+      "link": "https://www.hackerrank.com/certificates/73d6ef38b861"
+    },
+    {
+      "name": "Problem Solving (Basic)",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certifiacte-5.png",
+      "link": "https://www.hackerrank.com/certificates/9fff247b2b7c"
+    },
+    {
+      "name": "Java (Basic) Certificate",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certifiacte-3.png",
+      "link": "https://www.hackerrank.com/certificates/13860466c990"
+    },
+    {
+      "name": "Cyber Security Professional Basics",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certifiacte-4.jfif",
+      "link": "https://drive.google.com/file/d/155L4DiKaMzQY0TTjWyD2ymDMJaLxuFE3/view?usp=sharing"
+    },
+    {
+      "name": "Cyber Security Professional Basics (CSC)",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certificate-x.jpg",
+      "link": "https://drive.google.com/file/d/1HnCOobmVudVFXNk0avCaO7W6G_n70eRJ/view?usp=share_link"
+    },
+    {
+      "name": "Cyber Hygiene Certification (MeitY)",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certifiacte-1.png",
+      "link": "file:///C:/Users/KRISHNA/Downloads/ISEA%20Digital%20Certificate%20(1).pdf"
+    },
+    {
+      "name": "JCHNE + CLOUD V1",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certifiacte-6.png",
+      "link": "https://drive.google.com/file/d/1j3xQKKmRxUJr46iFpjrvAl7Y7X3YWa9X/view?usp=share_link"
+    },
+    {
+      "name": "CCNA (Global)",
+      "image": "https://gopalkrushnas063.github.io/images/certification/certifiacte-7.jpg",
+      "link": "https://drive.google.com/file/d/1RIz3tPhFEM_cwfZuDyaursX2MnUcPXDD/view?usp=sharing"
+    }
+  ]
+}
