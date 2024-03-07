@@ -1,142 +1,124 @@
 {
-  "fullName": "Alicia Smith",
-  "currentPosition": "Flutter Developer",
-  "street": "Curvy Str. 53",
-  "address": "Berlin, 14568",
-  "country": "Germany",
-  "email": "aliciasmith@wuerth.com",
-  "phoneNumber": "+ 49 (106)341 753 12",
-  "bio": "I am a dedicated Flutter developer with four years of valuable experience in both front-end and back-end development. My expertise lies in crafting robust and user-friendly applications using the Flutter framework. Having worked on projects of all sizes, I possess a deep understanding of the development lifecycle and a proven ability to deliver high-quality solutions. Currently based in the vibrant city of Berlin, Germany, I enjoy being a part of its thriving tech community. As a Computer Engineering graduate, I bring a solid foundation of technical knowledge and problem-solving skills to every project I undertake. Throughout my career, I have consistently demonstrated a passion for creating innovative and efficient applications that provide an exceptional user experience. My proficiency in Flutter enables me to build cross-platform applications with beautiful interfaces, seamless functionality, and optimized performance. I thrive in collaborative environments and enjoy working closely with cross-functional teams to bring ideas to life. I am always eager to stay up-to-date with the latest industry trends and technologies, continuously honing my skills to deliver cutting-edge solutions.",
-  "experience": [
-    {
-      "experienceTitle": "Software Engineer",
-      "experienceLocation": "at Mindable Health",
-      "experiencePeriod": "Aug 2021 - Dec 2023",
-      "experiencePlace": "Berlin",
-      "experienceDescription": {
-        "Responsibilities": [
-          "Developed and maintained RESTful APIs using Node.js and Express.js for our web applications.",
-          "Collaborated with the frontend team to integrate GraphQL APIs into our applications.",
-          "Utilized Docker for containerization and Kubernetes for orchestration of microservices.",
-          "Implemented user authentication and authorization using JWT tokens and OAuth2."
-        ],
-        "Technologies Used": [
-          "Node.js",
-          "Express.js",
-          "GraphQL",
-          "RESTful APIs",
-          "Docker",
-          "Kubernetes",
-          "JWT",
-          "OAuth2",
-          "PostgreSQL",
-          "MongoDB",
-          "Git",
-          "JIRA"
-        ],
-        "Achievements": [
-          "Successfully reduced API response times by 30% by optimizing database queries.",
-          "Led a team of developers in delivering critical features on time."
-        ]
-      }
+  "personalInfo": {
+    "name": "GOPAL KRUSHNA SAHOO",
+    "occupation": "FLUTTER DEVELOPER",
+    "contact": {
+      "linkedin": "Linkedin",
+      "email": "gopalkrushnas063@gmail.com",
+      "phone": ["7008268713", "9937220643"],
+      "github": "GitHub",
+      "portfolio": "Portfolio"
     },
-    {
-      "experienceTitle": "Product Design",
-      "experienceLocation": "Uk . London",
-      "experiencePeriod": "Aug 2021 - Dec 2023",
-      "experiencePlace": "London",
-      "experienceDescription": {
-        "Responsibilities": [
-          "Developed scalable microservices using Java and Spring Boot for our cloud-based applications.",
-          "Integrated Elasticsearch and Kibana for real-time log monitoring and analysis.",
-          "Implemented message queuing systems using Apache Kafka for event-driven architecture.",
-          "Collaborated with the QA team to ensure high code quality and performance."
-        ],
-        "Technologies Used": [
-          "Java",
-          "Spring Boot",
-          "RESTful APIs",
-          "Elasticsearch",
-          "Kibana",
-          "Apache Kafka",
-          "AWS (Amazon Web Services)",
-          "Git",
-          "Jenkins"
-        ],
-        "Achievements": [
-          "Improved application performance by optimizing database queries and reducing response times.",
-          "Implemented automated deployment pipelines, resulting in a 50% reduction in release time."
-        ]
-      }
-    },
-    {
-      "experienceTitle": "Flutter Developer",
-      "experienceLocation": "Uk . London",
-      "experiencePeriod": "Aug 2021 - Dec 2023",
-      "experiencePlace": "London",
-      "experienceDescription": {
-        "Responsibilities": [
-          "Designed and developed responsive web applications using React.js and Redux.",
-          "Implemented serverless architecture using AWS Lambda and API Gateway for cost-effective solutions.",
-          "Integrated third-party APIs and payment gateways for e-commerce applications.",
-          "Conducted code reviews and mentored junior developers in best practices."
-        ],
-        "Technologies Used": [
-          "React.js",
-          "Redux",
-          "GraphQL",
-          "AWS Lambda",
-          "API Gateway",
-          "MySQL",
-          "MongoDB",
-          "Git",
-          "Bitbucket"
-        ],
-        "Achievements": [
-          "Successfully launched three web applications, increasing customer engagement by 25%.",
-          "Implemented a GraphQL API, reducing the number of network requests and improving frontend performance."
-        ]
-      }
-    }
+    "address": "Nirakarpur, Khurda, Odisha, 752019"
+  },
+  "skills": {
+    "programmingLanguages": ["Dart", "Java", "JavaScript", "HTML", "CSS"],
+    "frameworks": ["Flutter", "SpringBoot", "ReactJS", "NextJS"],
+    "dsa": "Data Structure Algorithm",
+    "tools": ["Intellij", "VS Code", "STS", "GitHub"],
+    "architecture": ["CRUD", "MVC", "MVVM"],
+    "database": ["MySQL", "PostgreSQL"]
+  },
+  "softSkills": [
+    "Team Work",
+    "Positivity",
+    "Adaptability",
+    "Problem-Solving",
+    "Remote and online collaboration"
   ],
-  "educationDetails": [
+  "awards": [
+    "Best Handwriting Award (School Level) 2012",
+    "Mini Marathon Runner 2nd, 2015"
+  ],
+  "certifications": [
+    "Basic Cyber Security from OSOU, Jul 2020",
+    "NCC A Certified, Jul 2012.",
+    "Problem Solving (Basics), Hacker Rank",
+    "Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate"
+  ],
+  "educationHistory": [
     {
       "degree": "Bachelor Degree",
-      "institution": "Oxford University"
+      "institution": "KBDAV Degree College, Khurda, Odisha",
+      "duration": "March 2015 - May 2018"
     },
     {
-      "degree": "Post Graduate Degree",
-      "institution": "Oxford University"
+      "degree": "PG Diploma in Cyber Security",
+      "institution": "Gangadhar Meher University, Odisha.",
+      "duration": "Jun 2019 - Dec 2020"
+    },
+    {
+      "degree": "Intermediate In Science",
+      "institution": "KBDAV Degree College, Khurda, Odisha",
+      "duration": "Jun 2012 - Jul 2014"
+    },
+    {
+      "degree": "Java Backend Course (Full Time)",
+      "institution": "Masai School | Remote",
+      "duration": "Feb 2022 - Jan 2023"
+    },
+    {
+      "degree": "Hardware Networking Course",
+      "institution": "Jetking, Bhubaneswar, Odisha",
+      "duration": "Oct 2017 - Oct 2019"
+    },
+    {
+      "degree": "Master Of Science Information Security",
+      "institution": "IGNOU | ODL",
+      "duration": "Jan 2024 - Present"
     }
   ],
-  "languages": [
+  "projects": [
     {
-      "language": "English",
-      "proficiency": 5
+      "name": "News Bell (News App)",
+      "description": "Develop NewsBell, a user-friendly Flutter news app with slideable news feature and intuitive interface, fostering enjoyable and informed news consumption. Collaborative project accomplished with a team of 4 developers.",
+      "duration": "60 Days",
+      "techStack": ["Flutter", "Dart", "MVVM", "GetX", "SQLite"],
+      "role": "Implemented the API to render news in the frontend."
     },
     {
-      "language": "French",
-      "proficiency": 4
+      "name": "TRIP MANAGEMENT SYSTEM",
+      "description": "The main objective of this project is to know the package related to the trip and journey with the best facility and current offer. Searching will be straightforward. With a single click will be able to fetch the required data. Collaborative project accomplished with a team of 4 developers.",
+      "duration": "05 Days",
+      "techStack": ["Java", "SpringBoot", "MySQL", "Maven", "Hibernate"],
+      "role": "Team leads, implemented the database work, and created Login, Signup, and Payment sections."
     },
     {
-      "language": "Spanish",
-      "proficiency": 3
-    },
-    {
-      "language": "Mandarin",
-      "proficiency": 2
-    },
-    {
-      "language": "Russian",
-      "proficiency": 1
+      "name": "New Bharat Biz",
+      "description": "New Bharat Biz is a mobile app connecting users with service professionals for various needs, from home decor to grooming services, party planning, health, and more. Collaborative project accomplished with a team of 3 developers.",
+      "duration": "50 Days",
+      "techStack": ["Flutter", "Dart", "MVVM", "GetX", "SQLite"],
+      "role": "Implemented the API to render news in the frontend."
     }
   ],
-  "hobbies": [
-    "Bungee jumping",
-    "Fitness Studio",
-    "Martial Art",
-    "Vintage Art Collection"
-  ],
-  "image": "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "backgroundImage": "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  "workExperience": [
+    {
+      "position": "System Administrator",
+      "company": "Hiveloop Technology Pvt. Ltd",
+      "duration": "Feb 2021 to Mar 2022"
+    },
+    {
+      "position": "System Administrator",
+      "company": "Gandhi Institue Of Excellent Technocrats",
+      "duration": "Sept 2019 to Feb 2021"
+    },
+    {
+      "position": "Software Developer Trainee",
+      "company": "HYSCALER",
+      "duration": "Apr 2023 to Jul 2023",
+      "techStack": ["HTML", "CSS", "JavaScript", "NextJS", "ReactJS", "Tailwind CSS"]
+    },
+    {
+      "position": "Full Stack Java Web Developer Intern",
+      "company": "Masai School, Banglore",
+      "duration": "Sep 2022 to Mar 2023",
+      "techStack": ["Core Java", "SpringBoot", "Hibernate", "ORM", "Maven", "JDBC", "HTML", "CSS", "JavaScript", "Tailwind CSS", "MySQL"]
+    },
+    {
+      "position": "Junior Flutter Developer",
+      "company": "Wayindia Software Solution Pvt. Ltd., Bhubaneswar, Odisha",
+      "duration": "Jul 2023 to Present",
+      "techStack": ["Dart", "Flutter", "Android Studio"]
+    }
+  ]
 }
