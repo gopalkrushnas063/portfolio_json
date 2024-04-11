@@ -128,14 +128,14 @@
       {
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/c6/c8/f7c6c8e2-0725-bfcc-477c-e59243f5e574/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
         "title": "System Administrator",
-        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications. Installing and Configuring MS Outlook with POP3 and Exchange to the end user and troubleshooting. Installation and configuration of Modem and setting up Internet connections.",
+        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications.",
         "startDate": "2021-02-01",
         "endDate": "2022-02-01"
       },
       {
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNGKnJfOWcaXIc7Gv1ahR_zMHXPbVlUjNBqekGtpXFR2CPuTqmuvJS7T4evOIpc87BW74&usqp=CAU",
         "title": "System Administrator",
-        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications. Installing and Configuring MS Outlook with POP3 and Exchange to the end user and troubleshooting. Installation and configuration of Modem and setting up Internet connections.",
+        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications.",
         "startDate": "2019-09-01",
         "endDate": "2021-02-01"
       }
@@ -146,7 +146,7 @@
     "items": [
       {
         "name": "Story Book App",
-        "description": "Mo Gapa Bahi Aap : invites you into a captivating realm of storytelling that spans a myriad of genres and themes, transcending age barriers to cater to the diverse literary cravings of readers. This app serves as a versatile and engaging platform, offering a treasure trove of stories that fall into the realms of morality, inspiration, and adventure.",
+        "description": "Mo Gapa Bahi Aap : invites you into a captivating realm of storytelling that spans a myriad of genres and themes, transcending age barriers to cater to the diverse literary cravings of readers.",
         "technologies": [
           "Flutter",
           "GetX",
