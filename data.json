@@ -96,8 +96,8 @@
         "isBlack": false
       },
       {
-        "text": "Teaching",
-        "image": "https://api.laam.my.id/assets/images/skills/teaching.png",
+        "text": "DSA",
+        "image": "https://gopalkrushnas063.github.io/images/skills/dsa.png",
         "isBlack": true
       },
       {
@@ -112,18 +112,18 @@
     "text": "Here's a concise overview of my most recent experiences:",
     "items": [
       {
-        "logo": "https://api.laam.my.id/assets/images/experiences/happy5.png",
-        "title": "Android Team Lead",
-        "description": "Dedicated Android Team Lead with a proven record of driving excellence in mobile app development. Proficient in task management, code optimization, and fostering a collaborative team environment. Skilled mentor and code reviewer, committed to delivering high-quality software solutions.",
-        "startDate": "2022-06-01",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kk0-3NcvtkmJwYXA3ZX2AhJ4iP-PCQzzpg&s",
+        "title": "Flutter Developer",
+        "description": "Dedicated Flutter Developer with a proven record of driving excellence in mobile app development. Proficient in task management, code optimization, and fostering a collaborative team environment. Skilled mentor and code reviewer, committed to delivering high-quality software solutions.",
+        "startDate": "2023-07-14",
         "endDate": null
       },
       {
-        "logo": "https://api.laam.my.id/assets/images/experiences/happy5.png",
-        "title": "Android Engineer",
-        "description": "Skilled Android Engineer with a strong background in automating release and testing processes, optimizing codebase through clean architecture, and delivering top-notch mobile applications. Experienced in mentoring and guiding team members to achieve coding excellence.",
-        "startDate": "2020-05-01",
-        "endDate": "2022-05-31"
+        "logo": "https://images.yourstory.com/cs/images/companies/6dff2532809d-hyscalersquarelightbg1-1683282379452.png?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff",
+        "title": "Software Developer Trainee",
+        "description": "Skilled Software Developer Trainee with a strong background in automating release and testing processes, optimizing codebase through clean architecture, and delivering top-notch web applications.",
+        "startDate": "2023-05-01",
+        "endDate": "2023-07-14"
       },
       {
         "logo": "https://api.laam.my.id/assets/images/experiences/dinas-pendidikan.png",
@@ -233,10 +233,10 @@
       "title": "Explore",
       "description": "Ready for more thrilling reads?",
       "image": "https://api.laam.my.id/assets/images/articles/other.jpg",
-      "link": "https://medium.com/@luthfiarifin"
+      "link": "https://medium.com/"
     }
   },
   "bottom": {
-    "text": "Created with ♥ by [@luthfiarifin](https://www.linkedin.com/in/luthfiarifin/) using [Flutter & Clean Arch](https://github.com/luthfiarifin/personal-app)"
+    "text": "Created with ♥ by [@gopalkrushnas063](https://www.linkedin.com/) using [Flutter & Clean Arch](https://github.com/gopalkrushnas063)"
   }
 }
