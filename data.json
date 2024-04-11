@@ -126,18 +126,18 @@
         "endDate": "2023-07-14"
       },
       {
-        "logo": "https://api.laam.my.id/assets/images/experiences/dinas-pendidikan.png",
-        "title": "Guest Teacher",
-        "description": "Engaging Guest Teacher with a mission to make coding enjoyable and competitive. Skilled in teaching databases, Windows form applications, and Android development with Kotlin. Inspiring students at SMKN 10 Jakarta to embrace the fun side of coding and excel in competitions.",
-        "startDate": "2022-06-01",
-        "endDate": "2022-11-30"
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/c6/c8/f7c6c8e2-0725-bfcc-477c-e59243f5e574/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+        "title": "System Administrator",
+        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications. Installing and Configuring MS Outlook with POP3 and Exchange to the end user and troubleshooting. Installation and configuration of Modem and setting up Internet connections.",
+        "startDate": "2021-02-01",
+        "endDate": "2022-02-01"
       },
       {
-        "logo": "https://api.laam.my.id/assets/images/experiences/udagang.png",
-        "title": "Freelance Software Engineer",
-        "description": "Versatile Freelance Software Engineer, proficient in backend development and Android app creation. Organizes and leads teams to deliver efficient, high-quality projects. Specializes in crafting tailored software solutions to meet diverse client needs, ensuring exceptional results and client satisfaction.",
-        "startDate": "2019-12-01",
-        "endDate": "2021-02-30"
+        "logo": "https://teachmint.storage.googleapis.com/profile_images/4234bc96-e81c-4ed7-95f7-1bb5783ffcb7.jpeg",
+        "title": "System Administrator",
+        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications. Installing and Configuring MS Outlook with POP3 and Exchange to the end user and troubleshooting. Installation and configuration of Modem and setting up Internet connections.",
+        "startDate": "2019-09-01",
+        "endDate": "2021-02-01"
       }
     ]
   },
@@ -145,8 +145,8 @@
     "text": "Here are a few of the noteworthy projects I've developed:",
     "items": [
       {
-        "name": "WIGO Partner",
-        "description": "WIGO Partner simplifies venue management. A comprehensive dashboard offers bookings, sales analytics, and profile configuration for tourism businesses, enhancing efficiency and customer experience.",
+        "name": "Story Book App",
+        "description": "Mo Gapa Bahi Aap : invites you into a captivating realm of storytelling that spans a myriad of genres and themes, transcending age barriers to cater to the diverse literary cravings of readers. This app serves as a versatile and engaging platform, offering a treasure trove of stories that fall into the realms of morality, inspiration, and adventure.",
         "technologies": [
           "Flutter",
           "Nest.js",
@@ -156,8 +156,8 @@
           "Typescript",
           "Payment-Gateway"
         ],
-        "image": "https://api.laam.my.id/assets/images/projects/wigo-partner.png",
-        "link": "https://play.google.com/store/apps/details?id=id.wigo.partner"
+        "image": "https://play-lh.googleusercontent.com/QIzlzWVTp0MLCQj-pjXwyyBlVCiLHKGD9zJmT4hSR2pWXw_J-yVlG_E7bTXxYzH8mhc=w832-h470-rw",
+        "link": "https://play.google.com/store/apps/details?id=com.krishnatechworld.mogapabahi"
       },
       {
         "name": "WIGO App",
