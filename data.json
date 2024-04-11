@@ -52,47 +52,37 @@
     "items": [
       {
         "text": "Flutter",
-        "image": "https://api.laam.my.id/assets/images/skills/flutter.png",
-        "isBlack": false
-      },
-      {
-        "text": "Kotlin",
-        "image": "https://api.laam.my.id/assets/images/skills/kotlin.png",
+        "image": "https://gopalkrushnas063.github.io/images/skills/flutter.png",
         "isBlack": false
       },
       {
         "text": "Java",
-        "image": "https://api.laam.my.id/assets/images/skills/java.png",
+        "image": "https://gopalkrushnas063.github.io/images/skills/java.png",
         "isBlack": false
       },
       {
-        "text": "Node.js",
-        "image": "https://api.laam.my.id/assets/images/skills/nodejs.png",
+        "text": "Firebase",
+        "image": "https://gopalkrushnas063.github.io/images/skills/firebase.png",
         "isBlack": false
       },
       {
-        "text": "Nest.js",
-        "image": "https://api.laam.my.id/assets/images/skills/nestjs.png",
+        "text": "Springboot",
+        "image": "https://gopalkrushnas063.github.io/images/skills/spring.png",
         "isBlack": false
       },
       {
-        "text": "Express.js",
-        "image": "https://api.laam.my.id/assets/images/skills/expressjs.png",
+        "text": "Intellij",
+        "image": "https://gopalkrushnas063.github.io/images/skills/intellij.png",
         "isBlack": true
       },
       {
-        "text": "Typescript",
-        "image": "https://api.laam.my.id/assets/images/skills/typescript.png",
+        "text": "Linux",
+        "image": "https://gopalkrushnas063.github.io/images/skills/linux.png",
         "isBlack": false
       },
       {
         "text": "Javascript",
-        "image": "https://api.laam.my.id/assets/images/skills/javscript.png",
-        "isBlack": false
-      },
-      {
-        "text": "PostgreSQL",
-        "image": "https://api.laam.my.id/assets/images/skills/postgresql.png",
+        "image": "https://gopalkrushnas063.github.io/images/skills/js.png",
         "isBlack": false
       },
       {
@@ -101,15 +91,21 @@
         "isBlack": false
       },
       {
-        "text": "C#",
-        "image": "https://api.laam.my.id/assets/images/skills/csharp.png",
+        "text": "GitHub",
+        "image": "https://gopalkrushnas063.github.io/images/skills/git.png",
         "isBlack": false
       },
       {
         "text": "Teaching",
         "image": "https://api.laam.my.id/assets/images/skills/teaching.png",
         "isBlack": true
+      },
+      {
+        "text": "Maven",
+        "image": "https://gopalkrushnas063.github.io/images/skills/maven.png",
+        "isBlack": true
       }
+      
     ]
   },
   "experiences": {
