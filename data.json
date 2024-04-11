@@ -149,66 +149,59 @@
         "description": "Mo Gapa Bahi Aap : invites you into a captivating realm of storytelling that spans a myriad of genres and themes, transcending age barriers to cater to the diverse literary cravings of readers. This app serves as a versatile and engaging platform, offering a treasure trove of stories that fall into the realms of morality, inspiration, and adventure.",
         "technologies": [
           "Flutter",
-          "Nest.js",
+          "GetX",
           "Responsive",
           "Git",
           "Dart",
-          "Typescript",
-          "Payment-Gateway"
+          "MVVM",
+          "HTTP"
         ],
         "image": "https://play-lh.googleusercontent.com/QIzlzWVTp0MLCQj-pjXwyyBlVCiLHKGD9zJmT4hSR2pWXw_J-yVlG_E7bTXxYzH8mhc=w832-h470-rw",
         "link": "https://play.google.com/store/apps/details?id=com.krishnatechworld.mogapabahi"
       },
       {
-        "name": "WIGO App",
-        "description": "WIGO App is your ultimate travel companion. Discover destinations, activities, and dining worldwide with interactive maps and guides. Seamlessly plan and enjoy your journey.",
+        "name": "News Bell News App",
+        "description": "NewsBell is your all-in-one news app designed to keep you informed and engaged with the latest news, and trending stories from around the world. Whether you're a news enthusiast, a casual reader, or simply someone who wants to stay updated, NewsBell has got you covered.",
         "technologies": [
           "Flutter",
-          "Nest.js",
+          "GetX",
           "Git",
           "Dart",
-          "Typescript",
-          "Payment-Gateway",
-          "E-Wallet"
+          "MVVM",
         ],
-        "image": "https://api.laam.my.id/assets/images/projects/wigo-app.png",
-        "link": "https://play.google.com/store/apps/details?id=id.wigo.app"
+        "image": "https://gopalkrushnas063.github.io/images/portfolio/newsbell.png",
+        "link": "https://apps.apple.com/in/app/newsbell-app/id6449482902"
       },
       {
-        "name": "uDagang",
-        "description": "uDagang, crafted by Indonesian youth, empowers local MSMEs by offering a dynamic marketplace. Explore vibrant communities and seamless integration with social media for a thriving business ecosystem.",
+        "name": "New Bharat Biz",
+        "description": "New Bharat Biz is an online service Mobile APP that helps you find the right service professionals for activities of importance.Whether you are looking for professionals to decorate your home, grooming services like salon at home, make-up artist at home, plan your kid's birthday party, get healthier or any other utility services, New Bharat Biz is the ultimate destination.",
         "technologies": [
-          "Android",
-          "Node.js",
+          "Flutter",
+          "GetX",
           "Git",
-          "Kotlin",
-          "Javascript"
+          "Dart",
+          "MVVM",
         ],
-        "image": "https://api.laam.my.id/assets/images/projects/udagang.png",
-        "link": "https://play.google.com/store/apps/details?id=com.imi.udagang"
+        "image": "https://play-lh.googleusercontent.com/keBffCpvCcyWTpasCRRaHsBigmDkKN_AfrEf7WWn34qer0WUomLBBo5SNO4ngU29P_4=w832-h470-rw",
+        "link": "https://play.google.com/store/apps/details?id=com.newbharattech.newbharatbiz"
       }
     ]
   },
   "contact": {
     "text": "Looking forward to what's ahead! Whether you're seeking a developer, have questions, or just want to connect, please don't hesitate to reach out.",
-    "email": "marifinluthfi@gmail.com",
+    "email": "gopalkrushnas063@gmail.com",
     "others": {
       "text": "You can also find me on these platforms!",
       "items": [
         {
-          "icon": "https://api.laam.my.id/assets/images/contacts/linkedin.svg",
+          "icon": "https://gopalkrushnas063.github.io/images/icons8-linkedin-circled.gif",
           "type": "linkedin",
-          "link": "https://linkedin.com/in/luthfiarifin/"
+          "link": "https://linkedin.com/"
         },
         {
-          "icon": "https://api.laam.my.id/assets/images/contacts/github.svg",
+          "icon": "https://gopalkrushnas063.github.io/images/gitHub.png",
           "type": "github",
-          "link": "https://github.com/luthfiarifin"
-        },
-        {
-          "icon": "https://api.laam.my.id/assets/images/contacts/medium.svg",
-          "type": "medium",
-          "link": "https://medium.com/@luthfiarifin"
+          "link": "https://github.com/gopalkrushnas063"
         }
       ]
     }
