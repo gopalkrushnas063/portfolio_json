@@ -11,12 +11,12 @@
     "image": "https://gopalkrushnas063.github.io/images/photo.jpg",
     "contacts": [
       {
-        "icon": "https://gopalkrushnas063.github.io/images/icons8-linkedin-circled.gif",
+        "icon": "https://gopalkrushnas063.github.io/portfolio_json/iconmonstr-linkedin-3.svg",
         "type": "linkedin",
         "link": "https://linkedin.com/"
       },
       {
-        "icon": "https://gopalkrushnas063.github.io/images/icons8-github.gif",
+        "icon": "https://gopalkrushnas063.github.io/portfolio_json/github.svg",
         "type": "github",
         "link": "https://github.com/gopalkrushnas063"
       }
