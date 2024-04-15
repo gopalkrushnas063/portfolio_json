@@ -155,7 +155,7 @@
     "text": "Here are a few of the noteworthy projects I've developed:",
     "items": [
       {
-        "name": "WIGO Partner",
+        "name": "New Bharat Biz",
         "description": "WIGO Partner simplifies venue management. A comprehensive dashboard offers bookings, sales analytics, and profile configuration for tourism businesses, enhancing efficiency and customer experience.",
         "technologies": [
           "Flutter",
@@ -166,7 +166,7 @@
           "Typescript",
           "Payment-Gateway"
         ],
-        "image": "https://api.laam.my.id/assets/images/projects/wigo-partner.png",
+        "image": "https://github.com/gopalkrushnas063/portfolio_json/assets/103574856/0f675a42-8bde-4824-bf5c-1ab2b10684d8",
         "link": "https://play.google.com/store/apps/details?id=id.wigo.partner"
       },
       {
