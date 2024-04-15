@@ -1,15 +1,15 @@
 
 {
   "header": {
-    "title": "Hi, I'm Luthfi",
+    "title": "Hi, I'm Gopal",
     "description": "Experienced Android Developer and Team Lead with a passion for crafting high-quality mobile apps. Skilled in code review, task management, and clean architecture. Committed to fostering a collaborative learning environment. Author on Medium, sharing insights on mobile app development.",
-    "location": "Jakarta, Indonesia",
+    "location": "Odisha, Bhubaneswar",
     "isAvailableForProject": true,
     "linkedin": {
       "text": "Connect Me",
-      "link": "https://linkedin.com/in/luthfiarifin/"
+      "link": "https://linkedin.com/mwlite/in/gopal-krushna-sahoo-b537bb245/"
     },
-    "image": "https://api.laam.my.id/assets/images/profile-image.png",
+    "image": "https://gopalkrushnas063.github.io/images/photo.jpg",
     "contacts": [
       {
         "icon": "https://api.laam.my.id/assets/images/contacts/linkedin.svg",
