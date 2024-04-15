@@ -6,14 +6,14 @@
     "isAvailableForProject": true,
     "linkedin": {
       "text": "Connect Me",
-      "link": "https://linkedin.com/"
+      "link": "https://www.linkedin.com/in/gopalkrushnas063/"
     },
     "image": "https://gopalkrushnas063.github.io/images/photo.jpg",
     "contacts": [
       {
         "icon": "https://gopalkrushnas063.github.io/portfolio_json/iconmonstr-linkedin-3.svg",
         "type": "linkedin",
-        "link": "https://linkedin.com/"
+        "link": "https://www.linkedin.com/in/gopalkrushnas063/"
       },
       {
         "icon": "https://gopalkrushnas063.github.io/portfolio_json/github.svg",
@@ -28,27 +28,27 @@
     "image": "https://gopalkrushnas063.github.io/images/photo.jpg"
   },
   "services": {
-    "text": "The services I am can help you:",
+    "text": "The services I can help you with:",
     "items": [
       {
         "icon": "https://api.laam.my.id/assets/images/services/mobile.svg",
         "title": "Mobile App Development",
-        "description": "Create seamless mobile experiences, custom solutions"
+        "description": "Create seamless mobile experiences and custom solutions."
       },
       {
         "icon": "https://api.laam.my.id/assets/images/services/fullstack.svg",
         "title": "Full-Stack Development",
-        "description": "End-to-end solutions, frontend to backend development"
+        "description": "End-to-end solutions, from frontend to backend development."
       },
       {
         "icon": "https://api.laam.my.id/assets/images/services/consulting.svg",
         "title": "Development Consulting",
-        "description": "Expert guidance for successful project outcomes"
+        "description": "Expert guidance for successful project outcomes."
       }
     ]
   },
   "skills": {
-    "text": "The skills, tools and technologies I am really good at:",
+    "text": "The skills, tools, and technologies I excel at:",
     "items": [
       {
         "text": "Flutter",
@@ -66,12 +66,12 @@
         "isBlack": false
       },
       {
-        "text": "Springboot",
+        "text": "Spring Boot",
         "image": "https://gopalkrushnas063.github.io/images/skills/spring.png",
         "isBlack": false
       },
       {
-        "text": "Intellij",
+        "text": "IntelliJ IDEA",
         "image": "https://gopalkrushnas063.github.io/images/skills/intellij.png",
         "isBlack": true
       },
@@ -81,7 +81,7 @@
         "isBlack": false
       },
       {
-        "text": "Javascript",
+        "text": "JavaScript",
         "image": "https://gopalkrushnas063.github.io/images/skills/js.png",
         "isBlack": false
       },
@@ -105,7 +105,6 @@
         "image": "https://gopalkrushnas063.github.io/images/skills/maven.png",
         "isBlack": true
       }
-      
     ]
   },
   "experiences": {
@@ -119,7 +118,7 @@
         "endDate": null
       },
       {
-        "logo": "https://images.yourstory.com/cs/images/companies/6dff2532809d-hyscalersquarelightbg1-1683282379452.png?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff",
+        "logo": "https://images.yourstory.com/cs/images/companies/6dff2532809d-hyscalersquarelightbg1-1683282379452.png?fm=auto&ar=1:1&mode=fill&fill-color=fff",
         "title": "Software Developer Trainee",
         "description": "Skilled Software Developer Trainee with a strong background in automating release and testing processes, optimizing codebase through clean architecture, and delivering top-notch web applications.",
         "startDate": "2023-05-01",
@@ -128,14 +127,14 @@
       {
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/c6/c8/f7c6c8e2-0725-bfcc-477c-e59243f5e574/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
         "title": "System Administrator",
-        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications.",
+        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connections. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications.",
         "startDate": "2021-02-01",
         "endDate": "2022-02-01"
       },
       {
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNGKnJfOWcaXIc7Gv1ahR_zMHXPbVlUjNBqekGtpXFR2CPuTqmuvJS7T4evOIpc87BW74&usqp=CAU",
         "title": "System Administrator",
-        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connection. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications.",
+        "description": "System settings & different OS configurations. Maintain & Support different Notebook & Desktop Systems, User shares, file shares, etc. Install & configure different network printers. Configuration and monitoring of Wi-Fi connections. Manage support of new technologies as adopted by the business. Different software deployment. Support to Corporate Antivirus applications.",
         "startDate": "2019-09-01",
         "endDate": "2021-02-01"
       }
@@ -146,7 +145,7 @@
     "items": [
       {
         "name": "Story Book App",
-        "description": "Mo Gapa Bahi Aap : invites you into a captivating realm of storytelling that spans a myriad of genres and themes, transcending age barriers to cater to the diverse literary cravings of readers.",
+        "description": "Mo Gapa Bahi Aap invites you into a captivating realm of storytelling that spans a myriad of genres and themes, transcending age barriers to cater to the diverse literary cravings of readers.",
         "technologies": [
           "Flutter",
           "GetX",
@@ -161,7 +160,7 @@
       },
       {
         "name": "News Bell News App",
-        "description": "NewsBell is your all-in-one news app designed to keep you informed and engaged with the latest news, and trending stories from around the world. Whether you're a news enthusiast, a casual reader, or simply someone who wants to stay updated, NewsBell has got you covered.",
+        "description": "NewsBell is your all-in-one news app designed to keep you informed and engaged with the latest news and trending stories from around the world. Whether you're a news enthusiast, a casual reader, or simply someone who wants to stay updated, NewsBell has got you covered.",
         "technologies": [
           "Flutter",
           "GetX",
@@ -174,7 +173,7 @@
       },
       {
         "name": "New Bharat Biz",
-        "description": "New Bharat Biz is an online service Mobile APP that helps you find the right service professionals for activities of importance.Whether you are looking for professionals to decorate your home, grooming services like salon at home, make-up artist at home, plan your kid's birthday party, get healthier or any other utility services, New Bharat Biz is the ultimate destination.",
+        "description": "New Bharat Biz is an online service mobile app that helps you find the right service professionals for activities of importance. Whether you are looking for professionals to decorate your home, grooming services like a salon at home, a makeup artist at home, planning your kid's birthday party, getting healthier, or any other utility services, New Bharat Biz is the ultimate destination.",
         "technologies": [
           "Flutter",
           "GetX",
@@ -196,7 +195,7 @@
         {
           "icon": "https://gopalkrushnas063.github.io/images/icons8-linkedin-circled.gif",
           "type": "linkedin",
-          "link": "https://linkedin.com/"
+          "link": "https://www.linkedin.com/in/gopalkrushnas063/"
         },
         {
           "icon": "https://gopalkrushnas063.github.io/images/gitHub.png",
@@ -213,23 +212,23 @@
         "title": "Flutter Web Responsive: Crafting Adaptive UIs for Mobile, Tablet, and Web",
         "description": "Unlock the potential of Flutter for web development with responsive design techniques, ensuring a seamless user experience.",
         "image": "https://api.laam.my.id/assets/images/articles/flutter-responsive.png",
-        "link": "https://medium.com/@luthfiarifin/flutter-web-responsive-crafting-adaptive-uis-for-mobile-tablet-and-web-211effaa2445"
+        "link": "https://medium.com/@gopalkrushnas063/flutter-web-responsive-crafting-adaptive-uis-for-mobile-tablet-and-web-211effaa2445"
       },
       {
         "title": "Boosting Flutter Productivity Through Modularization",
-        "description": "🚀 The process of dividing a large codebase into smaller, self-contained modules.",
+        "description": "The process of dividing a large codebase into smaller, self-contained modules.",
         "image": "https://api.laam.my.id/assets/images/articles/flutter-modularization.jpg",
-        "link": "https://medium.com/@luthfiarifin/boosting-flutter-productivity-through-modularization-fc494bba82d5"
+        "link": "https://medium.com/@gopalkrushnas063/boosting-flutter-productivity-through-modularization-fc494bba82d5"
       }
     ],
     "other": {
       "title": "Explore",
       "description": "Ready for more thrilling reads?",
       "image": "https://api.laam.my.id/assets/images/articles/other.jpg",
-      "link": "https://medium.com/"
+      "link": "https://medium.com/@gopalkrushnas063"
     }
   },
   "bottom": {
-    "text": "Created with ♥ by [@gopalkrushnas063](https://www.linkedin.com/) using [Flutter & Clean Arch](https://github.com/gopalkrushnas063)"
+    "text": "Created with ♥ by [@gopalkrushnas063](https://www.linkedin.com/in/gopalkrushnas063/) using [Flutter & Clean Architecture](https://github.com/gopalkrushnas063)"
   }
 }
