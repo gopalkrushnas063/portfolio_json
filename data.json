@@ -7,19 +7,19 @@
     "isAvailableForProject": true,
     "linkedin": {
       "text": "Connect Me",
-      "link": "https://linkedin.com/mwlite/in/gopal-krushna-sahoo-b537bb245/"
+      "link": "https://www.linkedin.com/in/gopal-krushna-sahoo-b537bb245/"
     },
     "image": "https://gopalkrushnas063.github.io/images/photo.jpg",
     "contacts": [
       {
-        "icon": "https://api.laam.my.id/assets/images/contacts/linkedin.svg",
+        "icon": "https://gopalkrushnas063.github.io/portfolio_json/iconmonstr-linkedin-3.svg",
         "type": "linkedin",
-        "link": "https://linkedin.com/in/luthfiarifin/"
+        "link": "https://www.linkedin.com/in/gopal-krushna-sahoo-b537bb245/"
       },
       {
-        "icon": "https://api.laam.my.id/assets/images/contacts/github.svg",
+        "icon": "https://gopalkrushnas063.github.io/portfolio_json/github.svg",
         "type": "github",
-        "link": "https://github.com/luthfiarifin"
+        "link": "https://github.com/gopalkrushnas063"
       },
       {
         "icon": "https://api.laam.my.id/assets/images/contacts/medium.svg",
@@ -30,7 +30,7 @@
   },
   "aboutMe": {
     "title": "Interested in learning more about me?",
-    "description": "🚀 Mobile Developer & Team Lead 📱\nWith 4+ years in mobile app development, I've evolved into a Mobile Developer and Team Lead. I'm passionate about clean code and effective team collaboration, striving for top-tier mobile apps. Beyond coding, I'm an educator, dedicated to sharing knowledge and inspiring others. Let's connect to innovate in the mobile app world!\n\n✍️ Tech Enthusiast & Educator 📚\nIn addition to app development, I'm an enthusiastic writer and educator. My recent Medium articles delve into boosting productivity with Flutter modularization. I'm deeply committed to creating a supportive learning environment and have guest taught, igniting students' coding passion. Connect with me for tech innovation and collaborative learning!\n\nBy the way, I'm available for freelance projects, so please feel free to get in touch and introduce yourself! I assure you, I'm approachable and friendly 😉",
+    "description": "🚀 Flutter Developer & Team Lead 📱\nWith 2+ years in mobile app development, I've evolved into a Mobile Developer and Team Lead. I'm passionate about clean code and effective team collaboration, striving for top-tier mobile apps. Beyond coding, I'm an educator, dedicated to sharing knowledge and inspiring others. Let's connect to innovate in the mobile app world!\n\n✍️ Tech Enthusiast & Educator 📚\nIn addition to app development, I'm an enthusiastic writer and educator. My recent Medium articles delve into boosting productivity with Flutter modularization. I'm deeply committed to creating a supportive learning environment and have guest taught, igniting students' coding passion. Connect with me for tech innovation and collaborative learning!\n\nBy the way, I'm available for freelance projects, so please feel free to get in touch and introduce yourself! I assure you, I'm approachable and friendly 😉",
     "image": "https://gopalkrushnas063.github.io/images/photo.jpg"
   },
   "services": {
@@ -58,47 +58,37 @@
     "items": [
       {
         "text": "Flutter",
-        "image": "https://api.laam.my.id/assets/images/skills/flutter.png",
-        "isBlack": false
-      },
-      {
-        "text": "Kotlin",
-        "image": "https://api.laam.my.id/assets/images/skills/kotlin.png",
+        "image": "https://gopalkrushnas063.github.io/images/skills/flutter.png",
         "isBlack": false
       },
       {
         "text": "Java",
-        "image": "https://api.laam.my.id/assets/images/skills/java.png",
+        "image": "https://gopalkrushnas063.github.io/images/skills/java.png",
         "isBlack": false
       },
       {
-        "text": "Node.js",
-        "image": "https://api.laam.my.id/assets/images/skills/nodejs.png",
+        "text": "Firebase",
+        "image": "https://gopalkrushnas063.github.io/images/skills/firebase.png",
         "isBlack": false
       },
       {
-        "text": "Nest.js",
-        "image": "https://api.laam.my.id/assets/images/skills/nestjs.png",
+        "text": "Spring Boot",
+        "image": "https://gopalkrushnas063.github.io/images/skills/spring.png",
         "isBlack": false
       },
       {
-        "text": "Express.js",
-        "image": "https://api.laam.my.id/assets/images/skills/expressjs.png",
+        "text": "IntelliJ IDEA",
+        "image": "https://gopalkrushnas063.github.io/images/skills/intellij.png",
         "isBlack": true
       },
       {
-        "text": "Typescript",
-        "image": "https://api.laam.my.id/assets/images/skills/typescript.png",
+        "text": "Linux",
+        "image": "https://gopalkrushnas063.github.io/images/skills/linux.png",
         "isBlack": false
       },
       {
-        "text": "Javascript",
-        "image": "https://api.laam.my.id/assets/images/skills/javscript.png",
-        "isBlack": false
-      },
-      {
-        "text": "PostgreSQL",
-        "image": "https://api.laam.my.id/assets/images/skills/postgresql.png",
+        "text": "JavaScript",
+        "image": "https://gopalkrushnas063.github.io/images/skills/js.png",
         "isBlack": false
       },
       {
@@ -107,13 +97,18 @@
         "isBlack": false
       },
       {
-        "text": "C#",
-        "image": "https://api.laam.my.id/assets/images/skills/csharp.png",
+        "text": "GitHub",
+        "image": "https://gopalkrushnas063.github.io/images/skills/git.png",
         "isBlack": false
       },
       {
-        "text": "Teaching",
-        "image": "https://api.laam.my.id/assets/images/skills/teaching.png",
+        "text": "DSA",
+        "image": "https://gopalkrushnas063.github.io/images/skills/dsa.png",
+        "isBlack": true
+      },
+      {
+        "text": "Maven Dependency",
+        "image": "https://gopalkrushnas063.github.io/images/skills/maven.png",
         "isBlack": true
       }
     ]
