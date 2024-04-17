@@ -165,19 +165,17 @@
         "link": "https://apps.apple.com/us/app/new-bharat-biz-app/id6480580383"
       },
       {
-        "name": "WIGO App",
-        "description": "WIGO App is your ultimate travel companion. Discover destinations, activities, and dining worldwide with interactive maps and guides. Seamlessly plan and enjoy your journey.",
+        "name": "News Bell News App",
+        "description": "NewsBell is your all-in-one news app designed to keep you informed and engaged with the latest news and trending stories from around the world. Whether you're a news enthusiast, a casual reader, or simply someone who wants to stay updated, NewsBell has got you covered.",
         "technologies": [
           "Flutter",
-          "Nest.js",
+          "GetX",
           "Git",
           "Dart",
-          "Typescript",
-          "Payment-Gateway",
-          "E-Wallet"
+          "MVVM"
         ],
-        "image": "https://api.laam.my.id/assets/images/projects/wigo-app.png",
-        "link": "https://play.google.com/store/apps/details?id=id.wigo.app"
+        "image": "https://gopalkrushnas063.github.io/images/projects/newsbell.png",
+        "link": "https://apps.apple.com/in/app/newsbell-app/id6449482902"
       },
       {
         "name": "uDagang",
