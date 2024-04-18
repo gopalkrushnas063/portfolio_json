@@ -176,19 +176,6 @@
         ],
         "image": "https://gopalkrushnas063.github.io/images/projects/newsbell.png",
         "link": "https://apps.apple.com/in/app/newsbell-app/id6449482902"
-      },
-      {
-        "name": "uDagang",
-        "description": "uDagang, crafted by Indonesian youth, empowers local MSMEs by offering a dynamic marketplace. Explore vibrant communities and seamless integration with social media for a thriving business ecosystem.",
-        "technologies": [
-          "Android",
-          "Node.js",
-          "Git",
-          "Kotlin",
-          "Javascript"
-        ],
-        "image": "https://api.laam.my.id/assets/images/projects/udagang.png",
-        "link": "https://play.google.com/store/apps/details?id=com.imi.udagang"
       }
     ]
   },
