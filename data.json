@@ -20,11 +20,6 @@
         "icon": "https://gopalkrushnas063.github.io/portfolio_json/github.svg",
         "type": "github",
         "link": "https://github.com/gopalkrushnas063"
-      },
-      {
-        "icon": "https://api.laam.my.id/assets/images/contacts/medium.svg",
-        "type": "medium",
-        "link": "https://medium.com/@luthfiarifin"
       }
     ]
   },
@@ -181,24 +176,19 @@
   },
   "contact": {
     "text": "Looking forward to what's ahead! Whether you're seeking a developer, have questions, or just want to connect, please don't hesitate to reach out.",
-    "email": "marifinluthfi@gmail.com",
+    "email": "gopalkrushnas063@gmail.com",
     "others": {
       "text": "You can also find me on these platforms!",
       "items": [
         {
-          "icon": "https://api.laam.my.id/assets/images/contacts/linkedin.svg",
+          "icon": "https://gopalkrushnas063.github.io/portfolio_json/iconmonstr-linkedin-3.svg",
           "type": "linkedin",
-          "link": "https://linkedin.com/in/luthfiarifin/"
+          "link": "https://linkedin.com/in/gopal-krushna-sahoo-b537bb245/"
         },
         {
-          "icon": "https://api.laam.my.id/assets/images/contacts/github.svg",
+          "icon": "https://gopalkrushnas063.github.io/portfolio_json/github.svg",
           "type": "github",
           "link": "https://github.com/luthfiarifin"
-        },
-        {
-          "icon": "https://api.laam.my.id/assets/images/contacts/medium.svg",
-          "type": "medium",
-          "link": "https://medium.com/@luthfiarifin"
         }
       ]
     }
@@ -227,6 +217,6 @@
     }
   },
   "bottom": {
-    "text": "Created with ♥ by [@luthfiarifin](https://www.linkedin.com/in/luthfiarifin/) using [Flutter & Clean Arch](https://github.com/luthfiarifin/personal-app)"
+    "text": "Created with ♥ by [@gopalkrushnas063](https://www.linkedin.com/in/gopal-krushna-sahoo-b537bb245/) using [Flutter & Clean Arch](https://github.com/gopalkrushnas063)"
   }
 }
