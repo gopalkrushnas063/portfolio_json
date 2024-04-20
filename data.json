@@ -194,13 +194,13 @@
     }
   },
   "article": {
-    "text": "Here are some of the articles I've authored:",
+    "text": "Here are some of the certificates I've achieved :",
     "items": [
       {
-        "title": "Flutter Web Responsive: Crafting Adaptive UIs for Mobile, Tablet, and Web",
-        "description": "Unlock the potential of Flutter for web development with responsive design techniques, ensuring a seamless user experience.",
-        "image": "https://api.laam.my.id/assets/images/articles/flutter-responsive.png",
-        "link": "https://medium.com/@luthfiarifin/flutter-web-responsive-crafting-adaptive-uis-for-mobile-tablet-and-web-211effaa2445"
+        "title": "Foundation Of Cyber Security",
+        "description": "I have achieved the Foundation of Cyber Security certificate, demonstrating proficiency in essential cybersecurity concepts, methodologies, and practices.",
+        "image": "https://gopalkrushnas063.github.io/images/certification/coursera_cybersecurity.png",
+        "link": "https://coursera.org/share/e87b5f1a8f6b9a056952d15d7ed6265f"
       },
       {
         "title": "Boosting Flutter Productivity Through Modularization",
