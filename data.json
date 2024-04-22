@@ -149,11 +149,10 @@
         "description": "New Bharat Biz is an online service mobile app that helps you find the right service professionals for activities of importance. Whether you are looking for professionals to decorate your home, grooming services like a salon at home, a makeup artist at home, planning your kid's birthday party, getting healthier, or any other utility services, New Bharat Biz is the ultimate destination.",
         "technologies": [
           "Flutter",
-          "Nest.js",
-          "Responsive",
           "Git",
           "Dart",
-          "Typescript",
+          "MVVM",
+          "GetX",
           "Payment-Gateway"
         ],
         "image": "https://gopalkrushnas063.github.io/images/projects/nbb_project.png",
@@ -167,6 +166,7 @@
           "GetX",
           "Git",
           "Dart",
+          "GetX",
           "MVVM"
         ],
         "image": "https://gopalkrushnas063.github.io/images/projects/newsbell.png",
