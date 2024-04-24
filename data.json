@@ -171,6 +171,20 @@
         ],
         "image": "https://gopalkrushnas063.github.io/images/projects/newsbell.png",
         "link": "https://apps.apple.com/in/app/newsbell-app/id6449482902"
+      },
+      {
+        "name": "Mo Gapa Bahi",
+        "description": "Mo Gapa Bahi Aap invites you into a captivating realm of storytelling that spans a myriad of genres and themes, transcending age barriers to cater to the diverse literary cravings of readers. This app serves as a versatile and engaging platform, offering a treasure trove of stories that fall into the realms of morality, inspiration, and adventure.",
+        "technologies": [
+          "Flutter",
+          "GetX",
+          "Git",
+          "Dart",
+          "GetX",
+          "MVVM"
+        ],
+        "image": "https://gopalkrushnas063.github.io/portfolio_json/mogapabahi.png",
+        "link": "https://play.google.com/store/apps/details?id=com.krishnatechworld.mogapabahi"
       }
     ]
   },
