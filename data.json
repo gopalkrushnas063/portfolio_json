@@ -152,6 +152,24 @@
     "text": "Here are a few of the noteworthy projects I've developed:",
     "items": [
       {
+        "name": "hava havai-AI Travel Assistant",
+        "description": "Track flights in real time, auto check-in, and connect with travelers via AirChat. Visualize your journey on a 3D globe and access all your travel essentials in one app.  From boarding passes to lounge access—**hava havai** makes travel effortless.",
+        "technologies": [
+          "Flutter",
+          "Git",
+          "Dart",
+          "MVVM",
+          "Riverpod",
+          "Map",
+          "Firebase",
+          "Google ML Kit",
+          "AI Assistant",
+          "Chat Feature"
+        ],
+        "image": "https://gopalkrushnas063.github.io/portfolio_json/image.png",
+        "link": "https://play.google.com/store/apps/details?id=com.havahavai.havahavai&hl=en_IN"
+      },
+      {
         "name": "New Bharat Biz",
         "description": "New Bharat Biz is an online service mobile app that helps you find the right service professionals for activities of importance. Whether you are looking for professionals to decorate your home, grooming services like a salon at home, a makeup artist at home, planning your kid's birthday party, getting healthier, or any other utility services, New Bharat Biz is the ultimate destination.",
         "technologies": [
