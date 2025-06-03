@@ -112,11 +112,18 @@
     "text": "Here's a concise overview of my most recent experiences:",
     "items": [
       {
+        "logo": "https://platformcommons.org/wp-content/uploads/2020/12/platform-commons-1.png",
+        "title": "Mobile Application Developer",
+        "description": "Dedicated Flutter Developer with a proven record of driving excellence in mobile app development. Proficient in task management, code optimization, and fostering a collaborative team environment. Skilled mentor and code reviewer, committed to delivering high-quality software solutions.",
+        "startDate": 2025-05-10,
+        "endDate": null
+      },
+      {
         "logo": "https://play-lh.googleusercontent.com/b-HwwMbwQAabiMooHAJ0siFoiZ4L7an7DToEHC6_Odt_12FxIeZGYLkgpGCxQwVgKA=w480-h960-rw",
         "title": "Founding Engineer(Mobile Application Developer)",
         "description": "Dedicated Flutter Developer with a proven record of driving excellence in mobile app development. Proficient in task management, code optimization, and fostering a collaborative team environment. Skilled mentor and code reviewer, committed to delivering high-quality software solutions.",
         "startDate": "2024-05-09",
-        "endDate": null
+        "endDate": "2025-04-31"
       },
       {
         "logo": "https://gopalkrushnas063.github.io/images/company/wayindia.png",
