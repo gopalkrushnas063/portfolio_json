@@ -112,11 +112,18 @@
     "text": "Here's a concise overview of my most recent experiences:",
     "items": [
       {
+        "logo": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop,q=95/AzGXq2p4z4h6EK0y/bmg_logo-mjEGEGPE76Hvn612.jpeg",
+        "title": "SDE - II",
+        "description": "Dedicated Fullstack Mobile App Developer with a proven record of driving excellence in mobile app development. Proficient in task management, code optimization, and fostering a collaborative team environment. Skilled mentor and code reviewer, committed to delivering high-quality software solutions.",
+        "startDate": "2025-05-10",
+        "endDate": "2026-02-01"
+      },
+      {
         "logo": "https://gopalkrushnas063.github.io/portfolio_json/platform-commons-1.png",
         "title": "Mobile Application Developer",
         "description": "Dedicated Flutter Developer with a proven record of driving excellence in mobile app development. Proficient in task management, code optimization, and fostering a collaborative team environment. Skilled mentor and code reviewer, committed to delivering high-quality software solutions.",
         "startDate": "2025-05-10",
-        "endDate": null
+        "endDate": "2026-01-19"
       },
       {
         "logo": "https://play-lh.googleusercontent.com/b-HwwMbwQAabiMooHAJ0siFoiZ4L7an7DToEHC6_Odt_12FxIeZGYLkgpGCxQwVgKA=w480-h960-rw",
